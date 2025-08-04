@@ -1,3 +1,4 @@
+#acknowledge: the code astar.py is wrote by Github User Ethan Thornberg. The link to his profile: https://github.com/EthanT89
 # -*- coding: utf-8 -*-
 """ generic A-Star path searching algorithm """
 
